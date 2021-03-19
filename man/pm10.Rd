@@ -3,14 +3,14 @@
 \docType{data}
 \name{pm10}
 \alias{pm10}
-\title{Tibble con i dati di pm10 per 13 stazioni della regione UMBRIA}
+\title{Tibble con i dati di pm10 per 15 stazioni della regione UMBRIA}
 \format{
-Un tibble con 8 colonne e 35095 osservazioni
+Un tibble con 8 colonne e 40518 osservazioni
 }
 \usage{
 pm10
 }
 \description{
-Tibble con i dati di pm10 per 13 stazioni della regione UMBRIA
+Tibble con i dati di pm10 per 15 stazioni della regione UMBRIA
 }
 \keyword{datasets}

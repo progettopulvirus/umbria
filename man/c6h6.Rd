@@ -3,14 +3,14 @@
 \docType{data}
 \name{c6h6}
 \alias{c6h6}
-\title{Tibble con i dati di c6h6 per 2 stazioni della regione UMBRIA}
+\title{Tibble con i dati di c6h6 per 7 stazioni della regione UMBRIA}
 \format{
-Un tibble con 8 colonne e 5467 osservazioni
+Un tibble con 8 colonne e 19064 osservazioni
 }
 \usage{
 c6h6
 }
 \description{
-Tibble con i dati di c6h6 per 2 stazioni della regione UMBRIA
+Tibble con i dati di c6h6 per 7 stazioni della regione UMBRIA
 }
 \keyword{datasets}
