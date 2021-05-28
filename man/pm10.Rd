@@ -5,7 +5,7 @@
 \alias{pm10}
 \title{Tibble con i dati di pm10 per 15 stazioni della regione UMBRIA}
 \format{
-Un tibble con 8 colonne e 40518 osservazioni
+Un tibble con 8 colonne e 43356 osservazioni
 }
 \usage{
 pm10
